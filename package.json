@@ -1,0 +1,29 @@
+{
+  "name": "github-profile-viewer",
+  "version": "1.0.0",
+  "author": "Sumit Shah",
+   "description": "A modern UI GitHub profile viewer built with React, TailwindCSS, and Vite.",
+   "license": "MIT",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "axios": "^1.5.0",
+    "framer-motion": "^8.0.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.15.0",
+    "recharts": "^2.5.0",
+    "react-hot-toast": "^2.4.0",
+    "react-icons": "^4.11.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.2.1",
+    "autoprefixer": "^10.4.20",
+    "postcss": "^8.4.30",
+    "tailwindcss": "^3.4.14",
+    "vite": "^5.2.0"
+  }
+}
